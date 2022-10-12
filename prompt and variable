@@ -1,0 +1,9 @@
+let item = Number(prompt("Masukkan jumlah belanjaan: "))
+let harga = Number(prompt("Masukkan harga belanjaan"))
+let total = item * harga
+console.log(total);
+
+
+/* Notes
+2^5 adalah dua pangkat 5
+*/
